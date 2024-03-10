@@ -1,4 +1,3 @@
-
 # Drag and Drop Form Builder
 
 Welcome to Drag and Drop Form Builder! This project allows you to create forms with ease using drag and drop functionality. You can customize your forms with various elements such as titles, subtitles, spacers, numbers, select options, checkboxes, text areas, and more. Forms can be previewed, saved, and shared via unique URLs. Form submissions are validated and saved in the database for easy access.
@@ -9,10 +8,6 @@ Welcome to Drag and Drop Form Builder! This project allows you to create forms w
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Technologies Used](#technologies-used)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Features
 
@@ -27,7 +22,7 @@ Welcome to Drag and Drop Form Builder! This project allows you to create forms w
 
 1. Clone the repository:
 
-```bash
+````bash
 git clone https://github.com/yourusername/drag-and-drop-form-builder.git
 
 
@@ -80,3 +75,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+````
